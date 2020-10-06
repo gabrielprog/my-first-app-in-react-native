@@ -1,7 +1,7 @@
 <p align='center'>
 
 ## :airplane: | Sobre
-Adiciona perfis do github e visualizar os respositorios favoritado
+Adiciona perfis do GitHub e visualizar os repositórios favoritos
 
 ---
 
@@ -14,14 +14,14 @@ Adiciona perfis do github e visualizar os respositorios favoritado
 ---
 
 ## :dog: | Resultado
-<img src='image/1 (1).jpg'>
-<img src='image/1 (2).jpg'>
-<img src='image/1 (3).jpg'>
-<img src='image/1 (4).jpg'>
-<img src='image/1 (5).jpg'>
-<img src='image/1 (6).jpg'>
-<img src='image/1 (7).jpg'>
-<img src='image/1 (8).jpg'>
+<img width="250" src='image/1 (1).jpg'>
+<img width="250" src='image/1 (2).jpg'>
+<img width="250" src='image/1 (3).jpg'>
+<img width="250" src='image/1 (4).jpg'>
+<img width="250" src='image/1 (5).jpg'>
+<img width="250" src='image/1 (6).jpg'>
+<img width="250" src='image/1 (7).jpg'>
+<img width="250" src='image/1 (8).jpg'>
 
 ---
 
